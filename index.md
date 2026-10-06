@@ -5,7 +5,9 @@ title: Privacy Policy
 
 # Privacy Policy / Polityka Prywatności — Hugh Has No Filter
 
-**Last updated / Ostatnia aktualizacja:** 2026-10-02
+**Last updated / Ostatnia aktualizacja:** 2026-10-06
+
+**App / Aplikacja:** Hugh Has No Filter (Google Play: `eu.hughhasnofilter.app`)
 
 ---
 
@@ -17,8 +19,8 @@ Hugh Has No Filter works 100% offline. The app does not hold the `INTERNET` perm
 ### What the app stores
 Everything stays on your device only: workout history and stats, settings (theme, language, coach personality, volumes), and any custom music file you pick via the system file picker — played locally, never sent anywhere. No account, no login, no cloud sync.
 
-### Coach voice (Text-to-Speech)
-The app uses your phone's system text-to-speech engine. It has no internet access to send anything on its own. Whether your chosen TTS engine processes speech on-device or in the cloud depends on your system settings — that's outside this app's control.
+### Coach voice (recordings and Text-to-Speech)
+Some coach lines are voice recordings stored inside the app. The rest are read by your phone's system text-to-speech engine. It has no internet access to send anything on its own. Whether your chosen TTS engine processes speech on-device or in the cloud depends on your system settings — that's outside this app's control.
 
 ### Analytics, ads, tracking
 None. Zero analytics, advertising, or tracking SDK (no Firebase, Google Analytics, AdMob, Crashlytics).
@@ -33,10 +35,16 @@ A backup is a JSON file saved wherever you choose in the system file picker — 
 Only if you turn it on in Settings, the app WRITES each finished workout (type, start/end time, calories) to Health Connect on your phone, so apps like Google Fit or Samsung Health can show it. The app never READS any health data. You can revoke access anytime in Health Connect settings; data already saved stays under your control there.
 
 ### Permissions
-Notifications (running-workout bar), vibration (countdown haptics), and a foreground service (so the timer stays reliable in the background). None grant access to personal data or require internet.
+Notifications (running-workout bar), vibration (countdown haptics), a foreground service (so the timer stays reliable in the background) and start after reboot (to restore reminders). None grant access to personal data or require internet.
 
 ### Deleting your data
 Uninstalling the app immediately and permanently deletes all local data. We never had a copy to begin with.
+
+### Children
+The app is not directed at children under 13. It includes an optional coach with strong language, marked 18+. It collects no data from any user, including children.
+
+### Changes
+If this policy changes, we will update this page and the date at the top.
 
 ### Contact
 Developer: Mr KonduktorR, Poland. Questions about this policy or your privacy: **mrkonduktorr@gmail.com**
@@ -51,8 +59,8 @@ Hugh Has No Filter działa w 100% offline. Aplikacja nie ma uprawnienia INTERNET
 ### Jakie dane aplikacja przechowuje
 Wszystko zostaje wyłącznie na Twoim urządzeniu: historia i statystyki treningów, ustawienia (motyw, język, osobowość trenera, głośności) oraz ewentualny własny plik muzyczny wskazany przez systemowy selektor plików — odtwarzany lokalnie, nigdy nigdzie niewysyłany. Brak konta, logowania i synchronizacji w chmurze.
 
-### Głos trenera (Text-to-Speech)
-Aplikacja korzysta z systemowego silnika syntezy mowy Twojego telefonu. Sama nie ma dostępu do internetu, żeby cokolwiek wysłać. To, czy wybrany silnik TTS przetwarza mowę lokalnie czy w chmurze, zależy od ustawień Twojego systemu — to poza kontrolą tej aplikacji.
+### Głos trenera (nagrania i Text-to-Speech)
+Część kwestii trenerów to nagrania zapisane w aplikacji. Pozostałe czyta systemowy silnik syntezy mowy Twojego telefonu. Sama nie ma dostępu do internetu, żeby cokolwiek wysłać. To, czy wybrany silnik TTS przetwarza mowę lokalnie czy w chmurze, zależy od ustawień Twojego systemu — to poza kontrolą tej aplikacji.
 
 ### Analityka, reklamy, śledzenie
 Brak. Zero SDK analitycznego, reklamowego czy śledzącego (brak Firebase, Google Analytics, AdMob, Crashlytics).
@@ -67,10 +75,16 @@ Kopia zapasowa to plik JSON zapisany tam, gdzie sam wskażesz w systemowym selek
 Tylko jeśli włączysz to w Ustawieniach, aplikacja ZAPISUJE każdy ukończony trening (rodzaj, czas rozpoczęcia i zakończenia, kalorie) w Health Connect na Twoim telefonie, aby aplikacje takie jak Google Fit czy Samsung Health mogły go pokazać. Aplikacja nigdy NIE CZYTA danych zdrowotnych. Dostęp możesz cofnąć w każdej chwili w ustawieniach Health Connect; zapisane już dane pozostają tam pod Twoją kontrolą.
 
 ### Uprawnienia
-Powiadomienia (pasek trwającego treningu), wibracje (haptyka odliczania) i usługa na pierwszym planie (żeby timer działał niezawodnie w tle). Żadne nie dają dostępu do danych osobowych ani nie wymagają internetu.
+Powiadomienia (pasek trwającego treningu), wibracje (haptyka odliczania), usługa na pierwszym planie (żeby timer działał niezawodnie w tle) i uruchamianie po restarcie (żeby przywrócić przypomnienia). Żadne nie dają dostępu do danych osobowych ani nie wymagają internetu.
 
 ### Usunięcie danych
 Odinstalowanie aplikacji usuwa wszystkie lokalne dane natychmiast i bezpowrotnie. Nie mamy ich kopii — nigdy ich nie otrzymaliśmy.
+
+### Dzieci
+Aplikacja nie jest skierowana do dzieci poniżej 13 lat. Zawiera opcjonalnego trenera z wulgarnym językiem, oznaczonego jako 18+. Nie zbiera danych żadnych użytkowników, w tym dzieci.
+
+### Zmiany
+Jeśli ta polityka się zmieni, zaktualizujemy tę stronę i datę u góry.
 
 ### Kontakt
 Twórca: Mr KonduktorR, Polska. Pytania o tę politykę lub Twoją prywatność: **mrkonduktorr@gmail.com**
